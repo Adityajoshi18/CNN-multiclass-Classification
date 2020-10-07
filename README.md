@@ -4,7 +4,7 @@ Classfied the given images into 6 different classes - {0,1,2,3,4,5}.
 
 # Dataset and preprocessing
 
-Dataset was downloaded from Kaggle and image augmentation techniques were performed to expand the dataset.
+Dataset was downloaded from Kaggle and image augmentation techniques were performed to expand the size of the dataset.
 
 # Model
 
